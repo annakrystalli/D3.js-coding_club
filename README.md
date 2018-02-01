@@ -6,4 +6,4 @@ materials created as a remote participant of the EMBL Bio-IT D3.js coding club s
 
 - [**etherpad**](https://piratenpad.de/p/d3.js-coding_club)
 
--[**codepen**](https://codepen.io/gully/pen/glFcq)
+- [**codepen**](https://codepen.io/gully/pen/glFcq)
